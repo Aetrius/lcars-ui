@@ -1565,9 +1565,11 @@ footer::after {
     .lcars-bar-slice-bottom {
         width: 80px;
     }
+
 }
 @media only screen and (max-width: 388px) {
     .bar-1, .bar-6 {
         width: 90px;
     }
 }
+
