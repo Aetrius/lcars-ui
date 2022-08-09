@@ -14,7 +14,7 @@ A fun project to convert the lcars project into a Golang hosted project.
 
 - Add dynamic data for lcars interface
 
-- Dockerize
+- Add Host Metrics to screen
 
 - Kubernetes
 
