@@ -21,8 +21,6 @@ A fun project to convert the lcars project into a Golang hosted project.
 
 ## Installation
 
-Install my-project with npm
-
 Install Go / Docker
 
 ```bash
