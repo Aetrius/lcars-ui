@@ -28,6 +28,8 @@ Install Go / Docker
     go get github.com/joho/godotenv
     go install github.com/cosmtrek/air@latest
     go mod vendor
+    sudo docker-compose build
+    sudo docker-compose up -d
 ```
     
 ## Screenshots
